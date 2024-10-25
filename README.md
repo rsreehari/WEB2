@@ -32,11 +32,7 @@ This project is a weather forecasting application built with Spring Boot. It int
 - **Thymeleaf**: For server-side rendering of the user interface.
 - **RESTful Web Services**: For API communication.
 
-## Installation and Setup
-1. **Clone the repository**:
-   git clone https://github.com/ITS-PAWAN-SRIVASTAVA/weather-forecasting-music-recommendation.git
-2. Navigate to the project directory:
-     cd weather-forecasting-music-recommendation
+
 
    
 Configure API keys:
